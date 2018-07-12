@@ -2,7 +2,7 @@ Exceptional Realty Group Website
 
 #Description
 
-Example
+Example Website for Flatiron School
 
 #Contact
 
